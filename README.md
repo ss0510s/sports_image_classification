@@ -9,8 +9,8 @@ test set : 각 100장
 
 2단계) 학습 모델 구성
 
-3단계) validaion 코드 추가
-validation set : train set의 20%
+3단계) validaion 코드 추가  
+validation set : train set의 20%  
 
 4단계) loss 비교
 
